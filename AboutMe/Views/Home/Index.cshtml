@@ -1,0 +1,64 @@
+﻿@model AboutMe.Models.Counts
+
+<div class="wrapper">
+	<div class="img-area">
+		<div class="inner-area">
+			<img src="~/imgs/myimg.jpg" alt="">
+		</div>
+	</div>
+	<div class="name" id="name">Abdukholiqov Husniddin</div>
+	<div class="about" id="about">Aspiring Back-End Developer</div>
+	<div class="social-icons" id="social-icons">
+		<a title="telefone" href="tel:+992981021105" class="tel"><i class="fa-solid fa-phone"></i></a>
+		<a title="GitHub" href="https://github.com/abdukholiqovhusniddin" class="fb"><i class="fa-brands fa-github fa-2xl"></i></a>
+		<a title="instagram" href="https://www.instagram.com/abdukholiqov_husniddin/?next=%2F" class="insta"><i class="fab fa-instagram"></i></a>
+		<a title="telegram" href="https://t.me/abdukholiqov_husniddin" target="_blank" class="tg"><i class="fab fa-telegram"></i></a>
+	</div>
+	<div class="buttons" id="buttons">
+		<button id="message">Message</button>
+		<button id="subscribe" onclick="window.open('https://drive.google.com/file/d/1IFCEUMgWrr0lfRk6y0XVKopiYzXK3Vza/view?usp=drive_link', '_blank')">Resume</button>
+
+	</div>
+		 <div class="social-share" id="social-share">
+    		<div class="row" id="row1">
+				<i class="fa-regular fa-heart" style="color: yellow" id="like-button"></i>
+				<i class="fa-solid fa-heart" style="color: #ff0000; display: none;" id="like-button2"></i>
+				<span id="like-count">@Model.LikeCount</span>
+			</div>
+			<div class="row" id="opencomment">
+			<i class="far fa-comment" onclick="window.open('https://web.telegram.org/a/#-1002626090608', '_blank')"></i>
+			<i class="icon-2 fas fa-comment" onclick="window.open('https://web.telegram.org/a/#-1002626090608', '_blank')"></i>
+				<span id="commentcount">@Model.CommentCount</span>
+			</div>
+     		<div class="row" id="sharebutton">
+     			<i class="fas fa-share"></i>
+	 			<span id="countshare">@Model.ShareCount</span>
+			</div>
+		 </div>
+</div>
+
+@section Scripts{
+	<script>
+		function refreshCommentCount() {
+			fetch('/Home/GetCommentCount')
+				.then(response => {
+					if (!response.ok) {
+						throw new Error(`HTTP xato: ${response.status}`);
+					}
+					return response.json();
+				})
+				.then(data => {
+					const commentEl = document.getElementById('commentcount');
+					if (commentEl) commentEl.innerText = data.commentcount;
+				})
+				.catch(error => {
+					console.error("Fetchda xato:", error);
+				});
+		}
+
+		refreshCommentCount();
+
+		setInterval(refreshCommentCount, 3000);
+
+	</script>
+}
