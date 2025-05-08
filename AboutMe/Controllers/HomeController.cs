@@ -44,7 +44,7 @@ namespace AboutMe.Controllers
             }
 
             return Json(new { commentcount =  counts.CommentCount });
-        }  /// Counts jadvalidagi countlarni (id = 1) htmlga uboradi
+        }
 
         [HttpPost]
         public async Task<IActionResult> AddLike()
