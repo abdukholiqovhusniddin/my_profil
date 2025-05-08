@@ -1,65 +1,65 @@
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.slim.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.min.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\LICENSE.txt
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\css\site.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation\LICENSE.md
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.slim.min.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\additional-methods.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\favicon.ico
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.slim.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\js\site.js
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-D:\VS Code\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.min.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\LICENSE.txt
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\AboutMe\AboutMe\wwwroot\css\site.css
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation\LICENSE.md
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\AboutMe\AboutMe\wwwroot\favicon.ico
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\AboutMe\AboutMe\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\AboutMe\AboutMe\wwwroot\js\site.js
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\AboutMe\AboutMe\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\imgs\backroundprojekt.png
